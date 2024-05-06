@@ -1,10 +1,10 @@
 # Requirement of Tech
-  - **Next.js
-  - **Tailwind.css
-  - **Lint
-  - **Prettier
-  - **Husky
-  - **Typescript
+  - Next.js
+  - Tailwind.css
+  - Lint
+  - Prettier
+  - Husky
+  - Typescript
     
 # Overview
 In our platform, we value the ability to offer significant customization options to our clients, allowing them to tailor the frontend to their specific needs and preferences. To align with this philosophy, we have designed a coding challenge that tests your ability to create highly customizable React components.
